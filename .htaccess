@@ -1,0 +1,7 @@
+# 1 -----------------FIleNotFound--------------
+
+ErrorDocument 404 /filenotfound.php
+
+# 2 -----Accessing Other Files-----------
+
+IndexIgnore *filenotfound.php
